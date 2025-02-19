@@ -1,0 +1,9 @@
+ npm create vite@latest
+√ Project name: ... guitarla
+√ Select a framework: » Vue
+√ Select a variant: » JavaScript
+
+npm run dev
+
+produccion 
+npm run build
